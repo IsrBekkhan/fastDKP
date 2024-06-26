@@ -8,8 +8,6 @@ from common_gui.main_window import MainWindowUI
 
 if __name__ == "__main__":
     root_path = getcwd()
-    print(path.abspath(''))
-    print(root_path)
 
     app = QApplication(sys.argv)
     easyDKP = MainWindowUI(root_path=root_path)

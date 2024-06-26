@@ -1,0 +1,4 @@
+PyQt5==5.15.10
+docxtpl==0.17.0
+pillow==10.3.0
+requests==2.31.0
